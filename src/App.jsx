@@ -49,7 +49,7 @@ function App() {
     <h1 className='text-xl font-bold'>Glordano</h1>
     <p className='text-2xl md:text-6xl font-light'>Pack 5 T-Shirts for Summer</p>
     <p className='font-bold'>Starting at <span className='text-red-600'>$99.90</span></p>
-    <img src={shirt} className="w-[40%] h-auto object-cover" alt="Shirt" />
+    <img src={shirt} className="w-[40%] h-[10vh] object-cover" alt="Shirt" />
   </div>
 </div>
 
